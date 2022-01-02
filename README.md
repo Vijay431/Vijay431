@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vijay431
-- 👨‍💻Project Engineer @ 🏢Wipro Limited
+- 👨‍💻Specialist Programmer @ 🏢Infosys Limited
 - 👀 I’m interested in MERN|MEAN Stack as well as Full-Stack Technologies
 - 🌱 I’m currently learning Spring Boot & Spring Security
 - 💞️ I’m looking to collaborate on Stack Technologies
