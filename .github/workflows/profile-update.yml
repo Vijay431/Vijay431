@@ -15,23 +15,22 @@ jobs:
         permissions:
             contents: write
             actions: read
-            metadata: read
 
         steps:
             - name: Check if user is admin
               id: check-admin
               run: |
-                # Only proceed if triggered by schedule or if user has admin access
-                if [[ "${{ github.event_name }}" == "schedule" ]]; then
-                  echo "Triggered by schedule, proceeding..."
-                  echo "proceed=true" >> $GITHUB_OUTPUT
-                elif [[ "${{ github.actor }}" == "${{ github.repository_owner }}" ]]; then
-                  echo "Triggered by repository owner, proceeding..."
-                  echo "proceed=true" >> $GITHUB_OUTPUT
-                else
-                  echo "Triggered by non-admin user, skipping..."
-                  echo "proceed=false" >> $GITHUB_OUTPUT
-                fi
+                  # Only proceed if triggered by schedule or if user has admin access
+                  if [[ "${{ github.event_name }}" == "schedule" ]]; then
+                    echo "Triggered by schedule, proceeding..."
+                    echo "proceed=true" >> $GITHUB_OUTPUT
+                  elif [[ "${{ github.actor }}" == "${{ github.repository_owner }}" ]]; then
+                    echo "Triggered by repository owner, proceeding..."
+                    echo "proceed=true" >> $GITHUB_OUTPUT
+                  else
+                    echo "Triggered by non-admin user, skipping..."
+                    echo "proceed=false" >> $GITHUB_OUTPUT
+                  fi
 
             - name: Checkout
               if: steps.check-admin.outputs.proceed == 'true'
