@@ -17,13 +17,13 @@
 ## 🚀 About Me
 
 ```yaml
-name: "Vijay"
-role: "Full Stack Developer"
+name: "Vijay Gangatharan"
+role: "Full Stack Developer at Infosys Limited"
 location: "India"
-currently_working_on: "Building innovative web solutions"
-learning: "Advanced system design and cloud architecture"
+currently_working_on: "Building innovative web solutions and learning AI tools"
+learning: "AI applications, automation tools (n8n), and cloud technologies"
 fun_fact: "I debug with print statements and I'm not ashamed!"
-available_for: "Freelance projects and collaboration"
+available_for: "Open source contributions and collaboration (currently employed full-time)"
 ```
 
 ## 💻 Tech Stack & Expertise
@@ -36,6 +36,7 @@ available_for: "Freelance projects and collaboration"
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -45,7 +46,6 @@ available_for: "Freelance projects and collaboration"
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🗄️ Databases
@@ -54,30 +54,37 @@ available_for: "Freelance projects and collaboration"
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🛠️ Tools & Others
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/claude%20code-000000?style=for-the-badge&logo=claude&logoColor=white)
 
 <!-- Future Tech Stack Placeholder -->
 ### 🔮 Currently Exploring
 >
 > *This section will be automatically updated as I learn new technologies*
 
-- **Coming Soon:** Advanced system design patterns
-- **Next Goal:** Cloud-native architectures  
-- **Investigating:** AI/ML integration in web apps
+- **Currently Learning:** AI applications and automation tools
+- **Next Goal:** Advanced n8n automation workflows  
+- **Investigating:** Claude Code and OpenAI API integration
 
 ## 🎯 Featured Projects
 
@@ -85,9 +92,9 @@ available_for: "Freelance projects and collaboration"
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|---------|
-| 🚀 **Coming Soon** | Exciting projects in development | React, Node.js, MongoDB | 🔨 In Progress |
-| 💡 **Your Next Project** | Open for collaboration | TBD | 💭 Planning |
-| 🌟 **Innovation Hub** | Experimental features | Latest Tech | 🧪 Research |
+| 🚀 **[additional-contexts-menu](https://github.com/Vijay431/additional-contexts-menu)** | VS Code extension for enhanced context menus | TypeScript, VS Code API | 🔨 In Progress |
+| 💡 **[file-insights](https://github.com/Vijay431/file-insights)** | File analysis and insights tool | JavaScript, Node.js | 🔨 In Progress |
+| 🌟 **Portfolio Website** | Personal website showcasing projects and skills | React, Next.js | 💭 Planning |
 
 > *This section will showcase live projects with demos and GitHub links*
 
@@ -197,12 +204,14 @@ available_for: "Freelance projects and collaboration"
 
 ```mermaid
 graph LR
-    A[🎯 Current Focus] --> B[System Design]
-    A --> C[Cloud Architecture]
-    A --> D[AI/ML Integration]
-    B --> E[Scalability Patterns]
-    C --> F[Microservices]
-    D --> G[LLM Applications]
+    A[🎯 Current Focus] --> B[AI Applications]
+    A --> C[Cloud Technologies]
+    A --> D[Automation Tools]
+    B --> E[OpenAI API]
+    B --> F[Claude Code]
+    C --> G[AWS Services]
+    D --> H[n8n Workflows]
+    D --> I[GitHub Actions]
 ```
 
 ### 🎓 Certifications & Achievements
@@ -261,30 +270,29 @@ graph LR
 
 ### 🌟 Ready to Build Something Amazing Together?
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Open+for+freelance+projects;Looking+for+collaboration+opportunities;Always+excited+to+discuss+new+ideas!" alt="Collaboration CTA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Open+for+collaboration+opportunities;Looking+to+contribute+to+open+source;Always+excited+to+discuss+new+ideas!" alt="Collaboration CTA" />
 
 ### 🔗 Social Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-profile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-profile)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayg431)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vijay431)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vijay_gangatharan)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14218772/vijay-gangatharan)
 
 ### 📧 Get In Touch
 
 ```javascript
 const contact = {
-    email: "your.email@example.com",
-    discord: "YourHandle#0000",
-    availability: "Open for opportunities",
+    email: "vijayanand431@gmail.com",
+    company: "Infosys Limited",
+    availability: "Open for collaboration and open source contributions",
     responseTime: "Usually within 24 hours",
     preferredTopics: [
         "Web Development", 
-        "System Design", 
+        "AI Applications", 
         "Open Source", 
-        "Tech Discussions"
+        "Automation Tools (n8n)",
+        "Cloud Technologies"
     ]
 }
 ```
