@@ -4,7 +4,7 @@
 
 <img src="./assets/github-focus.svg" alt="Vijay's Dev Focus" width="820">
 
-### 🧙‍♂️ Specialist Programmer @ Infosys | AI DevTools Pioneer | Extension Alchemist
+**🧙‍♂️ Specialist Programmer @ Infosys | AI DevTools Pioneer | Extension Alchemist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay_Gangatharan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-gangatharan/) &nbsp; [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Vijay_Gangatharan-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14218772/vijay-gangatharan) &nbsp; [![Dev.to](https://img.shields.io/badge/Dev.to-vijay431-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vijay431) &nbsp; [![Medium](https://img.shields.io/badge/Medium-@vijay__gangatharan-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vijay_gangatharan)
 
