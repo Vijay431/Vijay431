@@ -205,7 +205,7 @@ Here are some of the developer tools I have designed and built:
 
 ---
 
-## 🌌 Open Source Direction
+## 🌌 Open-Source Direction
 
 I am especially interested in tools that make AI-heavy repositories easier to maintain: explicit repo contracts, safer generated-file boundaries, repeatable security checks, and better handoff between humans and coding agents.
 
