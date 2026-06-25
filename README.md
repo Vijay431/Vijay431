@@ -1,354 +1,202 @@
-
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Vijay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+# Vijay Gangatharan
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Problem+Solver;Building+scalable+web+applications;Always+learning+new+technologies;Open+to+collaborate+on+exciting+projects!" alt="Typing SVG" />
+**Specialist Programmer at Infosys | MEAN/MERN engineer building AI devtools, VS Code extensions, browser extensions, and GitHub automation**
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Vijay431&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay_Gangatharan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-gangatharan/) &middot; [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Vijay_Gangatharan-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14218772/vijay-gangatharan) &middot; [![Dev.to](https://img.shields.io/badge/Dev.to-vijay431-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/vijay431) &middot; [![Medium](https://img.shields.io/badge/Medium-@vijay__gangatharan-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@vijay_gangatharan)
+
+
+
+<img src="./assets/github-focus.svg" alt="Portfolio focus: AI devtools, extensions, and automation" width="820">
 
 </div>
 
+
+## 🎯 Focus
+
+I build developer-facing tools that make daily engineering work calmer, safer, and easier to repeat. My current work centers on:
+
+*   **Full-stack product engineering** using Angular, React, Node.js, Express, NestJS, MongoDB, PostgreSQL, and Redis.
+*   **AI-assisted repository maintenance**, security automation, OpenRouter/LLM workflows, and agentic developer tooling.
+*   **VS Code & browser extensions** for workflow shortcuts, screencasts, YouTube productivity, and repository hygiene.
+*   **GitHub automation**, including Actions, Dependabot, release workflows, branch protection, and open-source maintenance.
+
+*At Infosys, I work as a Specialist Programmer, contributing to production platforms like aviation and UAV insurance workflows. I am also the recipient of two Infosys Insta Awards for outstanding contributions.*
+
 ---
 
-## 🚀 About Me
+## 🚀 Flagship Projects
 
-```yaml
-name: "Vijay Gangatharan"
-role: "Full Stack Developer at Infosys Limited"
-location: "India"
-currently_working_on: "Building innovative web solutions and learning AI tools"
-learning: "AI applications, automation tools (n8n), and cloud technologies"
-fun_fact: "I debug with print statements and I'm not ashamed!"
-available_for: "Open source contributions and collaboration (currently employed full-time)"
-```
+Here are some of the developer tools I have designed and built:
 
-## 💻 Tech Stack & Expertise
+### Featured & Released
 
-### 🎨 Frontend Technologies
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📺 <a href="https://github.com/Vijay431/yt-autolike">yt-autolike</a></h4>
+      <p>A lightweight, privacy-focused browser extension designed to help users support their favorite content creators automatically. It runs entirely locally to auto-like videos and YouTube Shorts based on a customizable allowlist of trusted channels, maintaining a zero-tracking policy and minimizing network overhead.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖱️ <a href="https://github.com/Vijay431/additional-context-menus">additional-context-menus</a></h4>
+      <p>A developer productivity extension for VS Code that enriches the editor's right-click context menu with context-aware actions. It features AST-powered refactoring shortcuts, quick file and symbol navigation helpers, and customizable macros to automate repetitive text manipulation tasks directly from the workspace.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⌨️ <a href="https://github.com/Vijay431/keypress-notifications">keypress-notifications</a></h4>
+      <p>A presentation-focused VS Code extension that renders clean, real-time visual overlays of key combinations and shortcuts. It is tailored for technical presenters, screencasters, online tutors, and pair-programming sessions, making it easy for audiences to follow along with keyboard shortcuts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📦 <a href="https://github.com/Vijay431/vscode-extension-template">vscode-extension-template</a></h4>
+      <p>A modern, production-grade boilerplate designed to speed up VS Code extension development. It comes pre-configured with rapid esbuild bundling, linting rules, unit testing suites, and a robust CI/CD release workflow via GitHub Actions to package and publish to the VS Code Marketplace and Open VSX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black" alt="esbuild" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+### In-Progress & Active Development
 
-### ⚙️ Backend Technologies
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/Vijay431/seccure">seccure</a></h4>
+      <p>An automated supply-chain security companion. It utilizes LLMs to analyze Dependabot vulnerability alerts and pull requests, cross-references dependency manifest files (like package.json, requirements.txt, or go.mod) and lockfiles, reasons about potential breaking changes, and generates safe, automated remediation workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/OpenRouter-007ACC?style=flat-square" alt="OpenRouter" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎼 <a href="https://github.com/Vijay431/Orkestra">Orkestra</a></h4>
+      <p>A local-first project management system inspired by Jira and issue trackers, built specifically for coding agents. By exposing local databases and tasks through the Model Context Protocol (MCP), Orkestra allows autonomous AI agents to dynamically inspect issue boards, plan code implementation strategies, and update issue states directly as they work.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/MCP-8E75C2?style=flat-square" alt="MCP" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+---
 
-### 🗄️ Databases
+## 💻 Technical Toolbox
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Angular_Material-DF0030?style=flat-square&logo=angular&logoColor=white" alt="Angular Material" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/Zustand-444444?style=flat-square" alt="Zustand" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>AI & Agents</strong><br/><br/>
+      <img src="https://img.shields.io/badge/OpenRouter-007ACC?style=flat-square" alt="OpenRouter" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-8E75C2?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+      <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/MCP-8E75C2?style=flat-square" alt="MCP" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+      <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>DevTools</strong><br/><br/>
+      <img src="https://img.shields.io/badge/VS_Code_API-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code API" />
+      <img src="https://img.shields.io/badge/Browser_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Browser Extensions" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Dependabot-4A154B?style=flat-square&logo=dependabot&logoColor=white" alt="Dependabot" />
+      <img src="https://img.shields.io/badge/CodeQL-2088FF?style=flat-square" alt="CodeQL" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong>Cloud & Delivery</strong><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+      <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+    </td>
+  </tr>
+</table>
 
-### ☁️ Cloud & DevOps
+---
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+## 🏆 Certifications
 
-### 🛠️ Tools & Others
+*   **GitHub Foundations** (Issued Nov 2025 &middot; Expires Nov 2027)
+*   **GitHub Copilot** (Issued Feb 2026 &middot; Expires Feb 2028)
+*   **AWS Certified Cloud Practitioner** (Issued Apr 2025 &middot; Expires Apr 2028)
+*   **AWS Certified AI Practitioner** (Issued Apr 2026 &middot; Expires Apr 2029)
+*   **MongoDB Courses** &mdash; covering RAG applications, vector search, AI agents, aggregation, indexing, schema design, and sharding.
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Claude Code](https://img.shields.io/badge/claude%20code-000000?style=for-the-badge&logo=claude&logoColor=white)
+*Verification links are available on my [LinkedIn profile](https://www.linkedin.com/in/vijay-gangatharan/).*
 
-<!-- Future Tech Stack Placeholder -->
-### 🔮 Currently Exploring
->
-> *This section will be automatically updated as I learn new technologies*
+---
 
-- **Currently Learning:** AI applications and automation tools
-- **Next Goal:** Advanced n8n automation workflows  
-- **Investigating:** Claude Code and OpenAI API integration
+## 🌌 Open Source Direction
 
-## 🎯 Featured Projects
+I am especially interested in tools that make AI-heavy repositories easier to maintain: explicit repo contracts, safer generated-file boundaries, repeatable security checks, and better handoff between humans and coding agents.
+
+### Proposals & Initiatives
+
+*   **[.gitallow Specification](https://github.com/orgs/community/discussions/200163)** &middot; ![Status: RFC / In-Progress](https://img.shields.io/badge/Status-RFC%20%2F%20In--Progress-orange?style=flat-square)
+    An allowlist specification designed to restrict AI-generated repository artifacts, aiming to minimize accidental commits of temporary agent logs, scratch files, and development workspace contexts.
+
+---
 
 <div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|---------|
-| 🚀 **[additional-contexts-menu](https://github.com/Vijay431/additional-contexts-menu)** | VS Code extension for enhanced context menus | TypeScript, VS Code API | 🔨 In Progress |
-| 💡 **[file-insights](https://github.com/Vijay431/file-insights)** | File analysis and insights tool | JavaScript, Node.js | 🔨 In Progress |
-| 🌟 **Portfolio Website** | Personal website showcasing projects and skills | React, Next.js | 💭 Planning |
-
-> *This section will showcase live projects with demos and GitHub links*
-
+  <h3>🤝 Let's Connect</h3>
+  <p>I am based in India and open to collaboration around developer tools, VS Code extensions, browser extensions, open-source automation, and AI-assisted maintenance workflows.</p>
+  <p>
+    <a href="mailto:vijayanand431@gmail.com"><img src="https://img.shields.io/badge/Email-vijayanand431%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> &nbsp;
+    <a href="https://www.linkedin.com/in/vijay-gangatharan/"><img src="https://img.shields.io/badge/LinkedIn-vijay--gangatharan-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp;
+    <a href="https://stackoverflow.com/users/14218772/vijay-gangatharan"><img src="https://img.shields.io/badge/Stack_Overflow-vijay--gangatharan-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  </p>
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vijay431&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-### 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijay431&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay431&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vijay431&theme=algolia&hide_border=true)
-
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!-- This section will be auto-updated with WakaTime stats -->
-*Connect WakaTime for detailed coding statistics*
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-## 🌐 Open Source Contributions
-
-<div align="center">
-
-### 🎯 Contribution Highlights
->
-> *Future showcase for Pull Requests, Issues, and Repository contributions*
-
-| Metric | Count | Description |
-|--------|-------|-------------|
-| 🔄 **Pull Requests** | `Coming Soon` | Contributions to open source projects |
-| 🐛 **Issues Opened** | `Coming Soon` | Bug reports and feature requests |
-| ⭐ **Stars Earned** | `Coming Soon` | Recognition from the community |
-| 🍴 **Repositories Forked** | `Coming Soon` | Projects I've contributed to |
-
-### 🏷️ Hacktoberfest Contributions
-
-*Placeholder for annual open source contribution events*
-
-</div>
-
----
-
-## 🤝 Developer Community Engagement
-
-<div align="center">
-
-### 📝 Recent Articles & Posts
->
-> *This will automatically sync with your latest content*
-
-| Platform | Latest Activity | Engagement |
-|----------|----------------|------------|
-| 📖 **Dev.to** | `Placeholder for latest article` | 👥 `Coming Soon` |
-| ✍️ **Medium** | `Placeholder for latest post` | 👏 `Coming Soon` |
-| 🐦 **Twitter** | `Latest tech thoughts` | 🔄 `Coming Soon` |
-| 💼 **LinkedIn** | `Professional updates` | 👔 `Coming Soon` |
-
-### 🎤 Speaking & Community
->
-> *Future showcase for conference talks and community involvement*
-
-</div>
-
----
-
-## 🏅 Stack Overflow Contributions
-
-<div align="center">
-
-### 📚 Knowledge Sharing
->
-> *This section will display your Stack Overflow activity*
-
-| Metric | Value | Badge |
-|--------|-------|-------|
-| 🏆 **Reputation** | `Coming Soon` | ![SO Badge](https://img.shields.io/badge/StackOverflow-Contributor-orange?style=for-the-badge&logo=stackoverflow) |
-| ❓ **Questions Answered** | `Coming Soon` | 🎯 Helping developers |
-| ✅ **Accepted Answers** | `Coming Soon` | 💡 Problem Solver |
-| 🔍 **Questions Asked** | `Coming Soon` | 🤔 Curious Learner |
-
-</div>
-
----
-
-## 🚀 Learning Journey
-
-<div align="center">
-
-### 📚 Current Learning Path
->
-> *Auto-updated based on recent commits and activities*
-
-```mermaid
-graph LR
-    A[🎯 Current Focus] --> B[AI Applications]
-    A --> C[Cloud Technologies]
-    A --> D[Automation Tools]
-    B --> E[OpenAI API]
-    B --> F[Claude Code]
-    C --> G[AWS Services]
-    D --> H[n8n Workflows]
-    D --> I[GitHub Actions]
-```
-
-### 🎓 Certifications & Achievements
-
-*Placeholder for professional certifications and course completions*
-
-| Certificate | Provider | Status | Date |
-|-------------|----------|---------|------|
-| 🏅 **AWS Solutions Architect** | Amazon | `In Progress` | 2025 |
-| 🏅 **Advanced React Patterns** | Various | `Planned` | 2025 |
-| 🏅 **System Design Mastery** | Various | `Exploring` | 2025 |
-
-</div>
-
----
-
-## 🤝 Collaboration & Projects
-
-<div align="center">
-
-### 🚀 Looking to Collaborate On
-
-- **Open Source Projects**: Contributing to impactful repositories
-- **Startup Ideas**: Building the next big thing
-- **Learning Projects**: Exploring new technologies together
-- **Community Building**: Creating developer resources
-
-### 🏆 Hackathons & Competitions
-
-*Future showcase for competitive programming and hackathon achievements*
-
-</div>
-
----
-
-## 💡 Innovation Showcase
-
-<div align="center">
-
-### 🔬 Research & Experiments
->
-> *Space for patents, research papers, or technical innovations*
-
-| Innovation | Description | Status | Impact |
-|------------|-------------|---------|---------|
-| 🧪 **Coming Soon** | Experimental projects | `Research Phase` | 🌟 High Potential |
-| 🔍 **Tech Research** | Emerging technologies | `Investigating` | 📈 Future Ready |
-
-</div>
-
----
-
-## 📬 Let's Connect & Collaborate
-
-<div align="center">
-
-### 🌟 Ready to Build Something Amazing Together?
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Open+for+collaboration+opportunities;Looking+to+contribute+to+open+source;Always+excited+to+discuss+new+ideas!" alt="Collaboration CTA" />
-
-### 🔗 Social Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayg431)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vijay431)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vijay_gangatharan)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14218772/vijay-gangatharan)
-
-### 📧 Get In Touch
-
-```javascript
-const contact = {
-    email: "vijayanand431@gmail.com",
-    company: "Infosys Limited",
-    availability: "Open for collaboration and open source contributions",
-    responseTime: "Usually within 24 hours",
-    preferredTopics: [
-        "Web Development", 
-        "AI Applications", 
-        "Open Source", 
-        "Automation Tools (n8n)",
-        "Cloud Technologies"
-    ]
-}
-```
-
-### 💝 Support My Work
-
-If you find my projects helpful, consider:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-profile)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-profile)
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Vijay431)
-
-### ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
----
-
-<div align="center">
-  
-### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-**Thanks for visiting! Let's build the future together** 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-</div>
-
----
-
-<details>
-<summary>📊 <b>Profile Analytics & Insights</b></summary>
-
-<br>
-
-### 🔍 Profile Metadata
-
-- **Profile Created**: Dynamic timeline coming soon
-- **Last Updated**: Auto-updated via GitHub Actions
-- **Profile Views**: Updated in real-time
-- **Total Repositories**: Synced with GitHub API
-- **Active Projects**: Based on recent commits
-
-### 🎯 Future Enhancements
-
-- [ ] Real-time coding statistics integration
-- [ ] Automated blog post synchronization  
-- [ ] Live project status dashboard
-- [ ] Interactive skill assessment
-- [ ] Community contribution tracker
-- [ ] MCP tool integrations for dynamic content
-
-### 🛠️ Profile Tech Stack
-
-Built with: `Markdown` `GitHub APIs` `Vercel Widgets` `GitHub Actions`
-
-*This profile is continuously evolving with new features and automations!*
-
-</details>

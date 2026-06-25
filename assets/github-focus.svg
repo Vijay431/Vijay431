@@ -1,0 +1,29 @@
+<svg width="820" height="210" viewBox="0 0 820 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Vijay Gangatharan portfolio focus</title>
+  <desc id="desc">Static summary card for AI devtools, extensions, GitHub automation, and full-stack delivery.</desc>
+  <rect width="820" height="210" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="818" height="208" rx="17" stroke="#30363D" stroke-width="2"/>
+  <path d="M0 40H820" stroke="#21262D"/>
+  <circle cx="26" cy="20" r="6" fill="#FF7B72"/>
+  <circle cx="48" cy="20" r="6" fill="#D29922"/>
+  <circle cx="70" cy="20" r="6" fill="#3FB950"/>
+  <text x="410" y="27" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">github.com/Vijay431</text>
+  <text x="410" y="78" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Developer tools for safer, faster engineering</text>
+  <text x="410" y="108" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">MEAN/MERN full-stack delivery, AI agent workflows, extensions, and GitHub automation.</text>
+  <g transform="translate(40 136)">
+    <rect width="162" height="42" rx="8" fill="#161B22" stroke="#30363D"/>
+    <text x="81" y="26" text-anchor="middle" fill="#58A6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">AI DevTools</text>
+  </g>
+  <g transform="translate(218 136)">
+    <rect width="162" height="42" rx="8" fill="#161B22" stroke="#30363D"/>
+    <text x="81" y="26" text-anchor="middle" fill="#7EE787" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">VS Code APIs</text>
+  </g>
+  <g transform="translate(396 136)">
+    <rect width="162" height="42" rx="8" fill="#161B22" stroke="#30363D"/>
+    <text x="81" y="26" text-anchor="middle" fill="#F2CC60" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Browser Extensions</text>
+  </g>
+  <g transform="translate(574 136)">
+    <rect width="206" height="42" rx="8" fill="#161B22" stroke="#30363D"/>
+    <text x="103" y="26" text-anchor="middle" fill="#FFA657" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Security Automation</text>
+  </g>
+</svg>
