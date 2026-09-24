@@ -16,8 +16,8 @@ I am Vijay Gangatharan, a specialist programmer at Infosys in Bengaluru. On GitH
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vijay431&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Vijay's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay431&layout=compact&theme=tokyonight" alt="Vijay's top languages" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Vijay431&show_icons=true&theme=tokyonight&hide_border=false" alt="Vijay's GitHub stats" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Vijay431&layout=compact&theme=tokyonight" alt="Vijay's top languages" />
 
 </div>
 
