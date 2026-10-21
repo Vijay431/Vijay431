@@ -10,7 +10,7 @@ Specialist Programmer at Infosys · MEAN/MERN · Bengaluru
 
 ## About
 
-I am Vijay Gangatharan, a specialist programmer at Infosys in Bengaluru. On GitHub I build developer tools in TypeScript: VS Code extensions and a browser extension that take small pieces of daily friction out of the editor and the browser. Public work includes context-aware right-click menus, on-screen keypress overlays for demos, a local YouTube auto-like extension, and a template for shipping VS Code extensions. I also compete in HackerRank Orchestrate; the September 2026 affordability agent finished bronze, top 8%.
+I am Vijay Gangatharan, a specialist programmer at Infosys in Bengaluru. On GitHub I build developer tools in TypeScript: VS Code extensions and a browser extension that take small pieces of daily friction out of the editor and the browser. Public work includes context-aware right-click menus, on-screen keypress overlays for demos, a local YouTube auto-like extension, and a template for shipping VS Code extensions. I also compete in HackerRank Orchestrate; the September 2026 affordability agent finished bronze, top 8%. In October 2026 I learned Neo4j during a two-hour hackathon, teamed up with three people I had just met, and we earned a Special Mention for a graph-based career roadmap app.
 
 ## GitHub
 
@@ -30,6 +30,7 @@ I am Vijay Gangatharan, a specialist programmer at Infosys in Bengaluru. On GitH
 
 ## Hackathons
 
+- [hackfront-india-neo4j-2026](https://github.com/Vijay431/hackfront-india-neo4j-2026) — October 2026, Special Mention. CareerPath AI: a 2-hour Neo4j mini hackathon on AI career-growth guidance, built with three teammates I met that day. Turns a short profile and a chosen role into a prerequisite-ordered learning roadmap from a Neo4j skill graph. Next.js, GraphQL, Neo4j AuraDB, TypeScript. [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7517901562023706624/)
 - [hackerrank-orchestrate-august26](https://github.com/Vijay431/hackerrank-orchestrate-august26) — August 2026, ranked 952 of 1,983. Routes WhatsApp messages to notify, digest, or mute, using an LLM and local retrieval over text, images, and voice notes. Python.
 - [hackerrank-orchestrate-september26](https://github.com/Vijay431/hackerrank-orchestrate-september26) — September 2026, bronze, 232 of 3,062 (top 8%). Decides whether a requested expense is safe to pay now, pay later, split, or decline. Python.
 
